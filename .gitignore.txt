@@ -1,0 +1,24 @@
+google_credentials.json
+
+# Virtual environment folder
+venv/
+
+# Compiled Python files
+*.pyc
+
+# PyCache folders
+__pycache__/
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# Windows executable files
+*.exe
+
+# Large library binaries
+*.dll
+*.lib
+
+# Media files that are typically large
+*.mp4
+*.wav
